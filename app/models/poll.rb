@@ -18,3 +18,4 @@ class Poll < ActiveRecord::Base
     :primary_key => :id
   )
 end
+
